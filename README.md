@@ -7,9 +7,11 @@ This is a collection of artwork files for the logo, images, posters and flyers.
 Do not change the URL path or name for `/cocalc-logo-v7.2.png`.
 It's used in some external locations.
 
+Main artwork is `logo/logo/cocalc-logo-v7.2-horizontal.svg`, other artwork is essentially a derivation of this.
+
 ## License
 
-T.B.A.
+not licensed
 
 ## Trademark
 

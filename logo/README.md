@@ -1,0 +1,1 @@
+The main logo file is `cocalc-logo-v7.2.svg`. Created April 2018 by Harald Schilly. Usage allowed only by SageMath, Inc. or authorized parties. All other artwork is essentially a derivation of this original artwork.
