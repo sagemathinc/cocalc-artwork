@@ -9,6 +9,11 @@ It's used in some external locations.
 
 Main artwork is `logo/logo/cocalc-logo-v7.2-horizontal.svg`, other artwork is essentially a derivation of this.
 
+## Colors
+
+- blue: `4474c0`
+- orange: `fcc861`
+
 ## License
 
 not licensed
