@@ -1,6 +1,7 @@
-# CoCalc Artwork
+# CoCalc Artwork and CI
 
 This is a collection of artwork files for the logo, images, posters and flyers.
+Ultimately, this defines the visual CI of the CoCalc product.
 
 ## Devnotes
 
@@ -11,8 +12,11 @@ Main artwork is `logo/logo/cocalc-logo-v7.2-horizontal.svg`, other artwork is es
 
 ## Colors
 
-- blue: `4474c0`
-- orange: `fcc861`
+- blue: `#4474c0`
+- orange: `#fcc861`
+
+Further colors are defined in [util/theme.ts](https://github.com/sagemathinc/cocalc/blob/master/src/packages/util/theme.ts)
+
 
 ## License
 
