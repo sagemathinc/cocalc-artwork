@@ -25,8 +25,8 @@
      inkscape:document-units="in"
      showgrid="true"
      inkscape:zoom="1.87166"
-     inkscape:cx="566.07503"
-     inkscape:cy="341.94245"
+     inkscape:cx="526.00365"
+     inkscape:cy="411.39951"
      inkscape:window-width="2599"
      inkscape:window-height="2121"
      inkscape:window-x="1231"
@@ -281,105 +281,105 @@
      inkscape:label="content">
     <text
        xml:space="preserve"
-       style="font-size:2.6737px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.250659"
+       style="font-size:2.82222px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.250659"
        x="154.0564"
        y="23.369745"
        id="text38050"
        transform="scale(0.98612128,1.014074)"><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
          y="23.369745"
-         id="tspan39316">Compute servers <tspan
-   style="font-weight:bold;stroke-width:0.250659"
-   id="tspan103817">extend the computational capabilities</tspan> of CoCalc projects.</tspan><tspan
+         id="tspan39316"><tspan
+   style="font-weight:bold;font-size:2.82222px;stroke-width:0.250659"
+   id="tspan103817">Extend the computational capabilities</tspan> of CoCalc projects!</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="26.71187"
+         y="26.89752"
          id="tspan159796" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="30.053995"
+         y="30.425295"
          id="tspan39318">Run your code on <tspan
-   style="font-weight:bold;stroke-width:0.250659"
+   style="font-weight:bold;font-size:2.82222px;stroke-width:0.250659"
    id="tspan1298">powerful VMs</tspan> provided by various cloud providers.</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="33.396122"
-         id="tspan207422">Hundreds of CPU cores and hundreds of GB RAM are just clicks away!</tspan><tspan
+         y="33.953072"
+         id="tspan207422">Hundreds of CPU cores and thousands of GB RAM are just clicks away!</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="36.738247"
+         y="37.480846"
          id="tspan200264" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="40.080372"
+         y="41.008621"
          id="tspan194828">The <tspan
-   style="font-weight:bold;stroke-width:0.250659"
+   style="font-weight:bold;font-size:2.82222px;stroke-width:0.250659"
    id="tspan202016">GPU support</tspan> is extensive, from a <tspan
-   style="font-weight:bold;stroke-width:0.250659"
-   id="tspan203926">single T4 to eight H100</tspan>.</tspan><tspan
+   style="font-weight:bold;font-size:2.82222px;stroke-width:0.250659"
+   id="tspan203926">single T4 to eight H100s</tspan>.</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="43.422497"
+         y="44.536396"
          id="tspan194830" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="46.764622"
+         y="48.064171"
          id="tspan180524">Files are automatically synchronized and usage is billed by the second!</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="50.106747"
+         y="51.591946"
          id="tspan76363" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="53.448872"
+         y="55.11972"
          id="tspan135406">Various software images make it easy to get started.</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="56.790997"
+         y="58.647495"
          id="tspan135408">The pre-configured software stack images include:</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="60.133121"
+         y="62.17527"
          id="tspan76365"><tspan
-   style="font-weight:bold;stroke-width:0.250659"
+   style="font-weight:bold;font-size:2.82222px;stroke-width:0.250659"
    id="tspan196322">SageMath, Google Colab, Julia, PyTorch, Tensorflow and CUDA Toolkit</tspan>.</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="63.475246"
+         y="65.703049"
          id="tspan115233" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="66.817375"
+         y="69.23082"
          id="tspan116869" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="70.1595"
+         y="72.758598"
          id="tspan126339" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="73.501625"
+         y="76.286369"
          id="tspan76367" /><tspan
          sodipodi:role="line"
-         style="font-size:2.6737px;stroke-width:0.250659"
+         style="font-size:2.82222px;stroke-width:0.250659"
          x="154.0564"
-         y="76.84375"
+         y="79.814148"
          id="tspan76369" /></text>
     <text
        xml:space="preserve"
@@ -388,53 +388,53 @@
        style="font-size:10.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';white-space:pre;shape-inside:url(#rect110168)"><tspan
          x="48.458984"
          y="95.86917"
-         id="tspan14893">CoCalc is a comprehensive solution for working with
+         id="tspan76443">CoCalc is a comprehensive solution for working with
 </tspan><tspan
          x="48.458984"
          y="109.20254"
-         id="tspan14901"><tspan
+         id="tspan76451"><tspan
    style="font-weight:bold"
-   id="tspan14895">Jupyter Notebooks</tspan>, <tspan
+   id="tspan76445">Jupyter Notebooks</tspan>, <tspan
    style="font-weight:bold"
-   id="tspan14897">LaTeX documents</tspan>, and <tspan
+   id="tspan76447">LaTeX documents</tspan>, and <tspan
    style="font-weight:bold"
-   id="tspan14899">code files</tspan> online. 
+   id="tspan76449">code files</tspan> online. 
 </tspan><tspan
          x="48.458984"
          y="122.53592"
-         id="tspan14903">Collaborate with others within a convenient virtual environment.
+         id="tspan76453">Collaborate with others within a convenient virtual workspace.
 </tspan><tspan
          x="48.458984"
          y="135.86929"
-         id="tspan14905">
+         id="tspan76455">
 </tspan><tspan
          x="48.458984"
          y="149.20267"
-         id="tspan14909"><tspan
+         id="tspan76459"><tspan
    style="font-weight:bold"
-   id="tspan14907">Synchronization occurs in real-time</tspan>, eliminating merge conflicts and </tspan><tspan
+   id="tspan76457">Synchronization occurs in real-time</tspan>, eliminating merge conflicts and </tspan><tspan
          x="48.458984"
          y="162.53604"
-         id="tspan14911">the need for email communication.
+         id="tspan76461">the need for email communication.
 </tspan><tspan
          x="48.458984"
          y="175.86941"
-         id="tspan14913">
+         id="tspan76463">
 </tspan><tspan
          x="48.458984"
          y="189.20279"
-         id="tspan14917">Furthermore, a powerful <tspan
+         id="tspan76467">Furthermore, a powerful <tspan
    style="font-weight:bold"
-   id="tspan14915">Linux Terminal</tspan> provides flexibility,
+   id="tspan76465">Linux Terminal</tspan> provides maxium flexibility,
 </tspan><tspan
          x="48.458984"
          y="202.53616"
-         id="tspan14921">while a <tspan
+         id="tspan76471">while a <tspan
    style="font-weight:bold"
-   id="tspan14919">managed software environment</tspan> facilitates the seamless </tspan><tspan
+   id="tspan76469">managed software environment</tspan> facilitates the seamless </tspan><tspan
          x="48.458984"
          y="215.86954"
-         id="tspan14923">execution of code.
+         id="tspan76473">execution of code.
 </tspan></text>
     <text
        xml:space="preserve"
@@ -465,72 +465,72 @@
        transform="matrix(0.26458333,0,0,0.26458333,0.63095235,-6.5218329)"><tspan
          x="574.35938"
          y="516.65823"
-         id="tspan14927"><tspan
+         id="tspan76477"><tspan
    style="font-weight:bold"
-   id="tspan14925">Start using CoCalc for free</tspan>, in a fairly limited project.
+   id="tspan76475">Start using CoCalc for free</tspan>, in a limited trial project.
 </tspan><tspan
          x="574.35938"
          y="529.99161"
-         id="tspan14929">
+         id="tspan76479">
 </tspan><tspan
          x="574.35938"
          y="543.32498"
-         id="tspan14933">Obtain a <tspan
+         id="tspan76483">Obtain a <tspan
    style="font-weight:bold"
-   id="tspan14931">subscription for a license</tspan>, to upgrade your projects.
+   id="tspan76481">subscription for a license</tspan>, to upgrade your projects.
 </tspan><tspan
          x="574.35938"
          y="556.65836"
-         id="tspan14937">Subscriptions start at around <tspan
+         id="tspan76487">Subscriptions start at around <tspan
    style="font-weight:bold"
-   id="tspan14935">$5 per month</tspan>!
+   id="tspan76485">$5 per month</tspan>!
 </tspan><tspan
          x="574.35938"
          y="569.99173"
-         id="tspan14939">This unlocks more CPU/memory resources and internet access.
+         id="tspan76489">This unlocks the full power with more CPU/memory resources.
 </tspan><tspan
          x="574.35938"
          y="583.3251"
-         id="tspan14941">
+         id="tspan76491">
 </tspan><tspan
          x="574.35938"
          y="596.65848"
-         id="tspan14945">Beyond that, <tspan
+         id="tspan76495">Beyond that, <tspan
    style="font-weight:bold"
-   id="tspan14943">compute servers</tspan> give you on-demand access to extremely </tspan><tspan
+   id="tspan76493">compute servers</tspan> give you on-demand access to extremely </tspan><tspan
          x="574.35938"
          y="609.99185"
-         id="tspan14949">powerful VMs – <tspan
+         id="tspan76499">powerful VMs – <tspan
    style="font-weight:bold"
-   id="tspan14947">billed by the second</tspan>.
+   id="tspan76497">billed by the second</tspan>.
 </tspan><tspan
          x="574.35938"
          y="623.32523"
-         id="tspan14951">
+         id="tspan76501">
 </tspan><tspan
          x="574.35938"
          y="636.6586"
-         id="tspan14955">Please check <tspan
+         id="tspan76505">Please check <tspan
    style="font-weight:bold"
-   id="tspan14953">https://cocalc.com/store</tspan> for the latest information!
+   id="tspan76503">https://cocalc.com/store</tspan> for the latest information!
 </tspan><tspan
          x="574.35938"
          y="649.99197"
-         id="tspan14957">
+         id="tspan76507">
 </tspan><tspan
          x="574.35938"
          y="663.32535"
-         id="tspan14961"><tspan
+         id="tspan76511"><tspan
    style="font-weight:bold"
-   id="tspan14959">On-prem</tspan>: alternatively, you can run CoCalc in your own cluster.
+   id="tspan76509">On-premise</tspan>: you can also install CoCalc on your own cluster.
 </tspan><tspan
          x="574.35938"
          y="676.65872"
-         id="tspan14963">
+         id="tspan76513">
 </tspan><tspan
          x="574.35938"
          y="689.9921"
-         id="tspan14965">
+         id="tspan76515">
 </tspan></text>
     <image
        width="120.64185"
@@ -547,47 +547,47 @@
        style="font-size:10.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';white-space:pre;shape-inside:url(#rect252731)"><tspan
          x="42.353516"
          y="514.11722"
-         id="tspan14967">CoCalc integrates various LLM providers:
+         id="tspan76517">CoCalc integrates various LLM providers:
 </tspan><tspan
          x="42.353516"
          y="527.45059"
-         id="tspan14969">
+         id="tspan76519">
 </tspan><tspan
          x="42.353516"
          y="540.78397"
-         id="tspan14973"><tspan
+         id="tspan76523"><tspan
    style="font-weight:bold"
-   id="tspan14971">OpenAI (ChatGPT), Google (Gemini), Mistral, Anthropic (Claude)</tspan>, etc. 
+   id="tspan76521">OpenAI (ChatGPT), Google (Gemini), Mistral, Anthropic (Claude)</tspan>, etc. 
 </tspan><tspan
          x="42.353516"
          y="554.11734"
-         id="tspan14975">
+         id="tspan76525">
 </tspan><tspan
          x="42.353516"
          y="567.45071"
-         id="tspan14979">• <tspan
+         id="tspan76529">• <tspan
    style="font-weight:bold"
-   id="tspan14977">Chat directly</tspan> with a model of your choice,
+   id="tspan76527">Chat directly</tspan> with a model of your choice,
 </tspan><tspan
          x="42.353516"
          y="580.78409"
-         id="tspan14983">• Get help on a document to <tspan
+         id="tspan76533">• Get help on a document to <tspan
    style="font-weight:bold"
-   id="tspan14981">summarize, expand or check your work</tspan>, or
+   id="tspan76531">summarize, expand or check your work</tspan>, or
 </tspan><tspan
          x="42.353516"
          y="594.11746"
-         id="tspan14987">• Use <tspan
+         id="tspan76537">• Use <tspan
    style="font-weight:bold"
-   id="tspan14985">parameterized prompts</tspan> to simplify using LLMs.
+   id="tspan76535">parameterized prompts</tspan> to simplify using LLMs.
 </tspan><tspan
          x="42.353516"
          y="607.45084"
-         id="tspan14989">
+         id="tspan76539">
 </tspan><tspan
          x="42.353516"
          y="620.78421"
-         id="tspan14991">Usage is either free or billed by the number of tokens.
+         id="tspan76541">Usage is either free or billed by the number of tokens.
 </tspan></text>
     <text
        xml:space="preserve"
@@ -599,12 +599,12 @@
          style="font-weight:bold;font-size:4.58611px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="69.921654"
          y="12.841953"
-         id="tspan86567">Online Environment for</tspan><tspan
+         id="tspan94965">Real-Time Collaborative Environment</tspan><tspan
          sodipodi:role="line"
          style="font-weight:bold;font-size:4.58611px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="69.921654"
          y="17.65737"
-         id="tspan94965">Collaborative Calculation</tspan></text>
+         id="tspan64782">for Online Calculations</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
