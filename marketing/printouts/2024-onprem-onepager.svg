@@ -28,14 +28,14 @@
      inkscape:document-units="in"
      showgrid="true"
      inkscape:zoom="2.8284271"
-     inkscape:cx="328.62788"
-     inkscape:cy="403.75797"
-     inkscape:window-width="3840"
-     inkscape:window-height="2135"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="631.26958"
+     inkscape:cy="403.40442"
+     inkscape:window-width="1908"
+     inkscape:window-height="2121"
+     inkscape:window-x="1922"
+     inkscape:window-y="4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g106739-0-3"
      units="in"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-page="true"
@@ -167,6 +167,15 @@
        x="-0.0043426515"
        y="2.5425513"
        ry="0.0050957189" />
+    <image
+       width="22.119164"
+       height="22.119167"
+       preserveAspectRatio="none"
+       xlink:href="qr-onprem.cocalc.com.png"
+       id="image439362"
+       x="5.0799999"
+       y="36.300831"
+       style="display:inline" />
     <g
        id="g1148-8"
        transform="matrix(1.546403,0,0,1.4424633,-266.17122,-34.542112)"
@@ -364,7 +373,7 @@
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.4959803"
            y="78.212196"
-           id="tspan137300"></tspan><tspan
+           id="tspan137300" /><tspan
            sodipodi:role="line"
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.4959803"
@@ -375,14 +384,6 @@
            x="7.4959803"
            y="84.7033"
            id="tspan156124">Julia, SageMath, R, LaTeX, and more...</tspan></text>
-      <image
-         width="22.119164"
-         height="22.119167"
-         preserveAspectRatio="none"
-         xlink:href="qr-onprem.cocalc.com.png"
-         id="image439362"
-         x="5.0799999"
-         y="-124.98917" />
     </g>
     <g
        id="g1148-3"
@@ -426,15 +427,15 @@
       <text
          xml:space="preserve"
          style="font-size:2.1103px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';display:inline;fill:#ffffff;stroke-width:0.335838"
-         x="199.33536"
+         x="198.46228"
          y="-188.80153"
          id="text15785-5-3-3-0"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            id="tspan15783-3-5-2-6"
            style="font-size:2.1103px;fill:#ffffff;stroke-width:0.335838"
-           x="199.33536"
-           y="-188.80153">all of CoCalc on your own hardware</tspan></text>
+           x="198.46228"
+           y="-188.80153">All of CoCalc on your own hardware!</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:3.2827px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:0.175858"
@@ -700,7 +701,7 @@
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
            y="28.231001"
-           id="tspan293747">Leverage existing infrastructure investments</tspan><tspan
+           id="tspan293747">Leverage existing infrastructure investments.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
@@ -710,7 +711,7 @@
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
            y="35.286552"
-           id="tspan431832">Keep everything &quot;in one place&quot;</tspan><tspan
+           id="tspan431832">Access everything &quot;in one place&quot;.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
@@ -725,7 +726,7 @@
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
            y="45.869877"
-           id="tspan412696">with your organization's security policies</tspan><tspan
+           id="tspan412696">with your organization's security policies.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
@@ -735,7 +736,7 @@
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
            y="52.925426"
-           id="tspan296631">Meet specific regulatory requirements</tspan><tspan
+           id="tspan296631">Meet specific regulatory requirements.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
@@ -745,7 +746,7 @@
            style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="-45.741699"
            y="59.980976"
-           id="tspan283000">Keep everything isolated inside a VPN</tspan></text>
+           id="tspan283000">Keep everything isolated inside a VPN.</tspan></text>
     </g>
     <g
        id="g137178"
