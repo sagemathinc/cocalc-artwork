@@ -29,13 +29,13 @@
      showgrid="true"
      inkscape:zoom="2.0000001"
      inkscape:cx="379.74998"
-     inkscape:cy="668.49997"
+     inkscape:cy="503.49997"
      inkscape:window-width="3840"
      inkscape:window-height="2135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g136771"
      units="in"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-page="true"
@@ -600,7 +600,7 @@
          style="font-size:2.11667px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="101.44807"
          y="111.10619"
-         id="tspan63109">Updates quickly, supports inverse sync to source, etc.</tspan></text>
+         id="tspan63109">Updates quickly, inverse sync to source, etc.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:end;text-anchor:end;display:inline;stroke-width:0.264583"
@@ -616,7 +616,7 @@
          style="font-size:2.11667px;text-align:end;text-anchor:end;stroke-width:0.264583"
          x="99.21505"
          y="111.07829"
-         id="tspan47311">Syntax highlighting, foward sync to PDF, etc.</tspan></text>
+         id="tspan47311">Syntax highlighting, forward sync to PDF, etc.</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 63.489677,193.24939 v 2.54 h 35.56 v -2.54"
@@ -719,14 +719,14 @@
            style="font-size:2.46944px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.575386"
            y="75.740028"
-           id="tspan138856">Runs on a <tspan
+           id="tspan138856">✔ Runs on a <tspan
    style="font-weight:bold"
    id="tspan2799">Kubernetes cluster</tspan>.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.46944px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.575386"
            y="78.579887"
-           id="tspan106635">Uses a <tspan
+           id="tspan106635">✔ Uses a <tspan
    style="font-weight:bold"
    id="tspan4295">file-storage</tspan> solution and <tspan
    style="font-weight:bold"
@@ -735,21 +735,21 @@
            style="font-size:2.46944px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.575386"
            y="81.419739"
-           id="tspan137298">Inherits <tspan
+           id="tspan137298">✔ Inherits <tspan
    style="font-weight:bold"
    id="tspan6789">security and scalability</tspan> from our SaaS platform.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.46944px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.575386"
            y="84.259598"
-           id="tspan331443">Supports the full data science and scientific <tspan
+           id="tspan331443">✔ Supports the full data science and scientific <tspan
    style="font-weight:bold"
    id="tspan10679">Python</tspan> stack.</tspan><tspan
            sodipodi:role="line"
            style="font-size:2.46944px;text-align:start;text-anchor:start;stroke-width:0.264583"
            x="7.575386"
            y="87.099457"
-           id="tspan156124">Makes <tspan
+           id="tspan156124">✔ Makes <tspan
    style="font-weight:bold"
    id="tspan149403">LaTeX, Python, R/Knitr/Quarto, SageMath</tspan>, and more available.</tspan></text>
       <g
@@ -1032,7 +1032,7 @@
              style="font-size:2.5009px;text-align:start;text-anchor:start;stroke-width:0.264583"
              x="7.6399474"
              y="74.194534"
-             id="tspan418020">✔ Ubiqutous integation with <tspan
+             id="tspan418020">✔ Ubiquitous integation with <tspan
    style="font-weight:bold;font-size:2.5009px"
    id="tspan520801">AI tools (LLMs)</tspan>.</tspan><tspan
              sodipodi:role="line"
@@ -1152,9 +1152,10 @@
     </g>
     <g
        id="g142700"
-       transform="translate(0.21386078,-2.5399994)">
+       transform="translate(0.21386078,-2.5399994)"
+       style="stroke:none">
       <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.0733657;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#ffffff;stroke:none;stroke-width:0.0733657;-inkscape-stroke:none;stop-color:#000000"
          id="rect138142"
          width="25.396639"
          height="27.901644"
@@ -1163,13 +1164,13 @@
          ry="2.7901747" />
       <text
          xml:space="preserve"
-         style="font-size:2.11667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start;stroke-width:0.264583"
+         style="font-size:2.11667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start;stroke-width:0.264583;stroke:none"
          x="189.86003"
          y="191.28909"
          id="text140906"><tspan
            sodipodi:role="line"
            id="tspan140904"
-           style="text-align:start;text-anchor:start;stroke-width:0.264583"
+           style="text-align:start;text-anchor:start;stroke-width:0.264583;stroke:none"
            x="189.86003"
            y="191.28909">Documentation</tspan></text>
       <image
@@ -1179,7 +1180,8 @@
          xlink:href="qr-cocalc-doc-latex.png"
          id="image142656"
          x="187.74614"
-         y="167.64" />
+         y="167.64"
+         style="stroke:none" />
     </g>
     <g
        id="g145367"
