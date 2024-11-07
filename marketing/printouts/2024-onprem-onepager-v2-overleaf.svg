@@ -28,8 +28,8 @@
      inkscape:document-units="in"
      showgrid="true"
      inkscape:zoom="2.0000001"
-     inkscape:cx="379.74998"
-     inkscape:cy="503.49997"
+     inkscape:cx="266.74999"
+     inkscape:cy="962.49995"
      inkscape:window-width="3840"
      inkscape:window-height="2135"
      inkscape:window-x="0"
@@ -930,26 +930,24 @@
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:0;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
-       x="34.734032"
-       y="23.439718"
+       x="32.779896"
+       y="22.364199"
        id="text40214"
        transform="scale(0.98196919,1.0183619)"><tspan
          sodipodi:role="line"
          style="font-size:4.58611px;line-height:1.3;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
-         x="34.734032"
-         y="23.439718"
+         x="32.779896"
+         y="22.364199"
          id="tspan464285" /><tspan
-         style="font-size:4.58611px;line-height:1;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
+         style="font-size:5.64444px;line-height:1;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
          sodipodi:role="line"
-         x="34.734032"
-         y="28.713745"
+         x="32.779896"
+         y="28.442308"
          id="tspan184809">Alternative to <tspan
-   style="font-weight:bold;font-size:4.58611px;line-height:1;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
-   id="tspan177292">OverLeaf</tspan>, <tspan
-   style="font-weight:bold"
-   id="tspan157515">JupyterHub</tspan>, and <tspan
-   style="font-weight:bold;font-size:4.58611px;line-height:1;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
-   id="tspan37763">Slack</tspan></tspan></text>
+   style="font-weight:bold;font-size:5.64444px;line-height:1;fill:#ffffff;fill-opacity:1;stroke-width:0.259812"
+   id="tspan177292">Overleaf</tspan> and <tspan
+   style="font-weight:bold;font-size:5.64444px"
+   id="tspan157515">JupyterHub</tspan></tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.0700043;-inkscape-stroke:none;stop-color:#000000"
        id="rect189235"
@@ -1032,7 +1030,7 @@
              style="font-size:2.5009px;text-align:start;text-anchor:start;stroke-width:0.264583"
              x="7.6399474"
              y="74.194534"
-             id="tspan418020">✔ Ubiquitous integation with <tspan
+             id="tspan418020">✔ Ubiquitous integration with <tspan
    style="font-weight:bold;font-size:2.5009px"
    id="tspan520801">AI tools (LLMs)</tspan>.</tspan><tspan
              sodipodi:role="line"
