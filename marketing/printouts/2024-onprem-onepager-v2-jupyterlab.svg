@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="in"
      showgrid="true"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="364.74999"
-     inkscape:cy="621.49998"
-     inkscape:window-width="3840"
-     inkscape:window-height="2135"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="392.49998"
+     inkscape:cy="631.99997"
+     inkscape:window-width="1908"
+     inkscape:window-height="2121"
+     inkscape:window-x="1922"
+     inkscape:window-y="4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g142700"
      units="in"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-page="true"
@@ -204,6 +204,38 @@
        x="-2.2597857e-05"
        y="2.5425212"
        ry="0.0050494401" />
+    <g
+       id="g142700"
+       transform="translate(0.0016864,5.1166888)"
+       style="display:inline">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.0733657;-inkscape-stroke:none;stop-color:#000000"
+         id="rect138142"
+         width="25.396639"
+         height="27.901644"
+         x="185.42168"
+         y="165.10167"
+         ry="2.7901747" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="189.86003"
+         y="191.28909"
+         id="text140906"><tspan
+           sodipodi:role="line"
+           id="tspan140904"
+           style="text-align:start;text-anchor:start;stroke-width:0.264583"
+           x="189.86003"
+           y="191.28909">Documentation</tspan></text>
+      <image
+         width="20.319994"
+         height="20.319994"
+         preserveAspectRatio="none"
+         xlink:href="qr-cocalc-doc-jupyter.png"
+         id="image146969"
+         x="187.95831"
+         y="167.60332" />
+    </g>
     <g
        id="g1148"
        transform="matrix(1.5464032,0,0,1.4775582,-216.16503,-41.456385)">
@@ -858,15 +890,31 @@
          style="stroke-width:0.264583"
          x="119.38"
          y="193.03999" /></text>
-    <image
-       width="22.119164"
-       height="22.119167"
-       preserveAspectRatio="none"
-       xlink:href="qr-onprem.cocalc.com.png"
-       id="image439362"
-       x="187.06042"
-       y="204.84042"
-       style="display:inline" />
+    <g
+       id="g145367"
+       style="display:inline"
+       transform="translate(-2.9897986)">
+      <image
+         width="17.779995"
+         height="17.779995"
+         preserveAspectRatio="none"
+         xlink:href="qr-onprem.cocalc.com.png"
+         id="image439362"
+         x="190.9498"
+         y="205.74001"
+         style="display:inline" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="199.84186"
+         y="226.6181"
+         id="text144964"><tspan
+           sodipodi:role="line"
+           id="tspan144962"
+           style="stroke-width:0.264583"
+           x="199.84186"
+           y="226.6181">OnPrem Homepage</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
